@@ -1,4 +1,4 @@
-<p align="center"><img src="https://raw.githubusercontent.com/stremio-origin/.github/main/profile/logo.png" width="120" alt="Stremio Origin"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/stremio-origin/.github/main/profile/logo.png?v=2" width="120" alt="Stremio Origin"></p>
 
 <h1 align="center">Stremio Origin</h1>
 
