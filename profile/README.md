@@ -6,7 +6,8 @@
 Independent and unofficial, not affiliated with Stremio. The name only describes compatibility.</p>
 
 - [LG webOS TV](https://github.com/stremio-origin/webos): available
-- Android (TV and phone, one app): in the works
+- Android app: in the works
+- Android TV: in the works
 - Samsung TV (Tizen): in the works
 - iOS (native app and web app): planned
 - Windows: planned
